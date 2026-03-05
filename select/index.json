@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "耳に落ちる涙",
+  "base_artist": "日向坂46",
+  "createdAt": "2026-03-05T08:47:17.202973Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "耳に落ちる涙",
+      "artist": "Hinatazaka46",
+      "has_synced": true,
+      "path": "select/01_耳に落ちる涙_Hinatazaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "耳に落ちる涙",
+      "artist": "日向坂46",
+      "has_synced": false,
+      "path": "select/pl_01_耳に落ちる涙_日向坂46.txt"
+    }
+  ]
+}
